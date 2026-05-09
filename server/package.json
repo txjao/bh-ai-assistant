@@ -4,6 +4,7 @@
   "description": "A AI assistent to help you live in Belo Horizonte",
   "main": "index.js",
   "scripts": {
+    "dev": "ts-node",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,7 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/txjao/bh-assistent-ai/issues"
   },
